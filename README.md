@@ -2,6 +2,4 @@
 
 just testing rust.
 
-## todos
-
-- [ ] [00001_hello_world](/00001_hello_world)
+- [x] [00001 hello_world](/modules/00001helloworld)
